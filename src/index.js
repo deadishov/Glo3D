@@ -11,7 +11,7 @@ import slider from './modules/slider';
 import sendForm from './modules/sendForm';
 
 
-timer('31 december 2022');
+timer('30 march 2024');
 menu();
 modal();
 calc(100);
